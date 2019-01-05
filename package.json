@@ -1,0 +1,30 @@
+{
+  "name": "shopping-basket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.1",
+    "mongoose": "^4.13.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohitKashyap318/shopping-basket.git"
+  },
+  "author": "MOHIT KASHYAP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohitKashyap318/shopping-basket/issues"
+  },
+  "homepage": "https://github.com/MohitKashyap318/shopping-basket#readme"
+}
